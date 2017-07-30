@@ -1,0 +1,14 @@
+# whitelist ignore file
+
+# ignore everything
+*
+
+# exceptions
+# ignore file
+!.gitignore
+
+# autoexec
+!autoexec.cfg
+
+# lyt3n1ng config files
+!lyt3n1ng_*
